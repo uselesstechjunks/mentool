@@ -9,29 +9,29 @@ When, Why, Who, What?
 A. Before Building - Alignment & Planning
 ------------------------------------------------------------------------
 
-- [own] Design Docs: clarify problem, goals, trade-offs, proposed solution.
-- [review] PRDs: product-side framing of why/what to build.
-- [co-own] RFCs: socialize big or cross-team changes, gather feedback.
+- [verb:own] Design Docs: clarify problem, goals, trade-offs, proposed solution.
+- [verb:review] PRDs: product-side framing of why/what to build.
+- [verb:co-own] RFCs: socialize big or cross-team changes, gather feedback.
 
 ------------------------------------------------------------------------
 B. During Development - Execution & Interfaces
 ------------------------------------------------------------------------
 
-- [own] Tech Specs / API Docs: define contracts, data schemas, interfaces.
-- [co-own] Meeting/Decision Notes: record ongoing decisions, unblockers, next steps.
+- [verb:own] Tech Specs / API Docs: define contracts, data schemas, interfaces.
+- [verb:co-own] Meeting/Decision Notes: record ongoing decisions, unblockers, next steps.
 
 ------------------------------------------------------------------------
 C. After Experimentation - Evaluation & Iteration
 ------------------------------------------------------------------------
 
-- [own] Experiment Docs: capture hypotheses, metrics, results, learnings.
+- [verb:own] Experiment Docs: capture hypotheses, metrics, results, learnings.
 
 ------------------------------------------------------------------------
 D. In Production - Operations & Maintenance
 ------------------------------------------------------------------------
 
-- [co-own] Runbooks / Playbooks: step-by-step guides for incidents & debugging.
-- [own] Onboarding/Knowledge Docs: long-term references to ramp up engineers and avoid institutional memory loss.
+- [verb:co-own] Runbooks / Playbooks: step-by-step guides for incidents & debugging.
+- [verb:own] Onboarding/Knowledge Docs: long-term references to ramp up engineers and avoid institutional memory loss.
 
 ============================================================================
 How?
@@ -53,10 +53,10 @@ How?
     - Risks & Open Questions
 
 ------------------------------------------------------------------------
-2. PRDs (Product Requirement Docs) (if you partner with PMs)
+2. PRDs (Product Requirement Docs)
 ------------------------------------------------------------------------
 
-- Best Practice: Clarify "why now" and measurable success upfront.
+- Best Practice: Clarify "why now" and measurable success upfront. Bother only if you partner with PMs.
 - Structure: Title: [Feature/Project Name] PRD
 
     - Context / Motivation
