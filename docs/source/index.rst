@@ -61,3 +61,4 @@ Table of Contents
 
     kurzgesagt/index
     studytips/index
+    orgtips/index
