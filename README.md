@@ -1,8 +1,8 @@
-CogSys
+MenTool
 ==============================================================================
-https://cogsys.readthedocs.io/en/latest/
+https://mentool.readthedocs.io/en/latest/
 
-[![Documentation Status](https://readthedocs.org/projects/toplynx/badge/?version=latest)](https://toplynx.readthedocs.io/en/latest/)
+[![Documentation Status](https://readthedocs.org/projects/mentool/badge/?version=latest)](https://mentool.readthedocs.io/en/latest/)
 
 ### What this is
 
