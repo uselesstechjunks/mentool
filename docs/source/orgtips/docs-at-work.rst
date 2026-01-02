@@ -1,6 +1,12 @@
 ############################################################################
 Docs @ Work
 ############################################################################
+Write
+
+    - **minimum** correct document
+    - at the **earliest** useful time
+    - for the **widest** necessary audience.
+
 ============================================================================
 When, Why, Who, What?
 ============================================================================
@@ -40,6 +46,10 @@ How?
 ------------------------------------------------------------------------
 1. Design Docs (System/ML/Experiment)
 ------------------------------------------------------------------------
+.. important::
+
+    - Write when the problem or trade-offs are unclear.
+    - Capture decisions and rejected alternatives explicitly.
 
 - Best Practice: Keep decision rationale explicit; diagrams > text walls.
 - Structure: Title: [System/Model Name] Design Doc
@@ -55,6 +65,10 @@ How?
 ------------------------------------------------------------------------
 2. PRDs (Product Requirement Docs)
 ------------------------------------------------------------------------
+.. important::
+
+    - Problem and success metrics must be measurable.
+    - If metrics are vague, stop and fix before execution.
 
 - Best Practice: Clarify "why now" and measurable success upfront. Bother only if you partner with PMs.
 - Structure: Title: [Feature/Project Name] PRD
@@ -70,6 +84,10 @@ How?
 ------------------------------------------------------------------------
 3. RFCs (Request for Comments)
 ------------------------------------------------------------------------
+.. important::
+
+    - Use when cross-team impact or approval is required.
+    - Publish early, before commitment or implementation.
 
 - Best Practice: Keep decision logs so future engineers see why something was chosen.
 - Structure: Title: RFC: [Proposed Change]
@@ -85,6 +103,10 @@ How?
 ------------------------------------------------------------------------
 4. Tech Specs / API Docs
 ------------------------------------------------------------------------
+.. important::
+
+    - Write once interfaces or schemas must be stable.
+    - Treat it as a contract; update when compatibility changes.
 
 - Best Practice: Keep concise, machine-readable schemas alongside human docs.
 - Structure: Title: [Service / API Spec]
@@ -99,6 +121,10 @@ How?
 ------------------------------------------------------------------------
 5. Meeting/Decision Notes
 ------------------------------------------------------------------------
+.. important::
+
+    - Write when decisions are made verbally.
+    - Decisions and owners must be explicit and timestamped.
 
 - Best Practice: Send out within 24h; decisions bolded.
 - Structure: Meeting: [Name, Date]
@@ -112,6 +138,10 @@ How?
 ------------------------------------------------------------------------
 6. Experiment Docs
 ------------------------------------------------------------------------
+.. important::
+
+    - Every experiment must have a hypothesis and metrics.
+    - Always record outcomes, even if decision is already made.
 
 - Best Practice: Include links to dashboards, queries, PRDs.
 - Structure: Experiment: [Name]
@@ -127,6 +157,10 @@ How?
 ------------------------------------------------------------------------
 7. Runbooks / Playbooks
 ------------------------------------------------------------------------
+.. important::
+
+    - Optimize for 3 AM usage by someone without context.
+    - No design rationale; only symptoms and actions.
 
 - Best Practice: Test them via dry-runs; keep "one-page quick actions" upfront.
 - Structure: Service / Model: [Name]
@@ -141,6 +175,10 @@ How?
 ------------------------------------------------------------------------
 8. Onboarding/Knowledge Docs
 ------------------------------------------------------------------------
+.. important::
+
+    - Answer “how does this system actually work end-to-end.”
+    - Update when tribal knowledge causes repeated questions.
 
 - Best Practice: Keep "getting started in < 1hr" flow at top.
 - Structure: Topic: [System / Team Name]
