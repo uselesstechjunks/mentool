@@ -62,4 +62,5 @@ Table of Contents
     studytips/index
     orgskills/index
     peopleskills/index
+    navigationskills/index
     kurzgesagt/index
