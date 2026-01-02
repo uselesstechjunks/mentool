@@ -1,11 +1,13 @@
 ############################################################################
 Docs @ Work
 ############################################################################
-Write
 
-    - **minimum** correct document
-    - at the **earliest** useful time
-    - for the **widest** necessary audience.
+.. warning::
+    Write
+
+        - **minimum** correct document
+        - at the **earliest** useful time
+        - for the **widest** necessary audience.
 
 ============================================================================
 When, Why, Who, What?
@@ -190,8 +192,11 @@ How?
     - Pitfalls / Gotchas
     - Resources (dashboards, repos, contacts)
 
+============================================================================
+Anything Else?
+============================================================================
 ------------------------------------------------------------------------
-9. Supporting Details - [H1 2025 / H2 2025]
+Supporting Details Doc - [H1 20XX / H2 20XY]
 ------------------------------------------------------------------------
 
 1. Career Alignment
