@@ -64,3 +64,4 @@ Table of Contents
     peopleskills/index
     navigationskills/index
     kurzgesagt/index
+    readlist
